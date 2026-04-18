@@ -6,5 +6,5 @@ return {
 
 	"42Paris/42header",
 	-- 'fclivaz42/42header-ls',
-	"hardyrafael17/norminette42.nvim"
+	-- "hardyrafael17/norminette42.nvim"
 }
